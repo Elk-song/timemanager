@@ -1,0 +1,25 @@
+{
+  "name": "time_transfer",
+  "version": "1.0.1",
+  "description": "时间函数库",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "GitHub",
+    "url": "https://github.com/Zql-mll/timemanager.git"
+  },
+  "keywords": [],
+  "author": "sdh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.2",
+    "typescript": "^3.9.6"
+  }
+}
